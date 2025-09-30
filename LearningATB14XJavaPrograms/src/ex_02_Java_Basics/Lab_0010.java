@@ -9,7 +9,7 @@ public class Lab_0010 {
 		System.out.println(2-2);
 		System.out.println(2/2);
 		System.out.println("2+2");
-		System.out.println(3/2); //println -> Integer Part -> No Decimal
+		System.out.println(3/2); //println -> return Integer Part always -> No Decimal return
 		
 
 	}
